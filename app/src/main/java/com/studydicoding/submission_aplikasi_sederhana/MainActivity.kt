@@ -20,8 +20,12 @@ class MainActivity : AppCompatActivity() {
 
         // Action Bar
         supportActionBar?.hide()
+    }
 
-        // Nav Controller
+    // Nav Controller
+    override fun onStart() {
+        super.onStart()
+
         val navView: BottomNavigationView = binding.bottomNav
         val navController = findNavController(R.id.nav_host_fragment_container)
         val appBarConfig = AppBarConfiguration(
