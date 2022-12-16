@@ -13,6 +13,7 @@ import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
 import com.studydicoding.submission_aplikasi_sederhana.databinding.FragmentInfoBinding
 
+@Suppress("DEPRECATION")
 class InfoFragment : Fragment() {
 
     private var _binding: FragmentInfoBinding? = null
