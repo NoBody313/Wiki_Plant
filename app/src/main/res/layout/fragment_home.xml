@@ -7,7 +7,7 @@
     android:paddingStart="32dp"
     android:paddingTop="24dp"
     android:paddingEnd="32dp"
-    android:paddingBottom="64dp"
+    android:paddingBottom="0dp"
     tools:context=".ui.home.HomeFragment">
 
     <androidx.core.widget.NestedScrollView
@@ -20,6 +20,7 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
+            android:paddingBottom="24dp"
             android:layout_height="match_parent">
 
             <TextView

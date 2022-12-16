@@ -3,15 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_nav"
-    app:startDestination="@id/homeFragment">
+    app:startDestination="@id/home_menu">
 
     <fragment
-        android:id="@+id/homeFragment"
+        android:id="@+id/home_menu"
         android:name="com.studydicoding.submission_aplikasi_sederhana.ui.home.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
-        android:id="@+id/infoFragment"
+        android:id="@+id/info_menu"
         android:name="com.studydicoding.submission_aplikasi_sederhana.ui.info.InfoFragment"
         android:label="fragment_info"
         tools:layout="@layout/fragment_info" />

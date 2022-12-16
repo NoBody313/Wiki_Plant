@@ -11,4 +11,10 @@
     <string name="txt_name_plant">Name plant :</string>
     <string name="txt_botanical_name">Botanical Name :</string>
     <string name="txt_description">Description</string>
+    <string name="txt_developer">Developer :</string>
+    <string name="txt_muhammad_fatih_maulana">Muhammad Fatih Maulana</string>
+    <string name="txt_email">Email :</string>
+    <string name="txt_email_fatih">muhammadfatihmaulana434
+        @gmail.com</string>
+    <string name="txt_exit_app">Exit App</string>
 </resources>

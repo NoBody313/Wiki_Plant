@@ -30,8 +30,8 @@ class SplashScreenActivity : AppCompatActivity() {
 
     }
 
-//    override fun onDestroy() {
-//        super.onDestroy()
-//        finishAffinity()
-//    }
+    override fun onDestroy() {
+        super.onDestroy()
+        finishAffinity()
+    }
 }
