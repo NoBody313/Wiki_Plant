@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wiki Plant</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_info">Info</string>
+    <string name="txt_home">Home</string>
+    <string name="txt_discovery_plant">Discovery Plants</string>
+    <string name="txt_image_plant">Image Plant</string>
+    <string name="logo">Logo</string>
+    <string name="txt_image_detail_plant">Image Detail Plant</string>
+    <string name="txt_name_plant">Name plant :</string>
+    <string name="txt_botanical_name">Botanical Name :</string>
+    <string name="txt_description">Description</string>
+</resources>
